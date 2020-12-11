@@ -20,14 +20,14 @@ change from main to master branch to see this.
 ## investegation of tools
 
 ### junit 5
-  @Tag. 
-  @Disabled. 
-  @RepeadedTest. 
-  @beforeEach and afterEach.
-  @beforeAlle and afterAll.  
-  @displayName. 
-  @Nestet. 
-  asume false assume true.
+  @Tag.   
+  @Disabled.   
+  @RepeadedTest.   
+  @beforeEach and afterEach.  
+  @beforeAlle and afterAll.    
+  @displayName.   
+  @Nestet.   
+  asume false assume true.  
 
 ### mocking framworks
   JMockit VS. Mockito
